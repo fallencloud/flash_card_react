@@ -9,3 +9,4 @@ This a React-based upcycle of an old Treehouse Project.
 3. Add state
 4. Add next functionality
 5. Add mock authentication
+6. Attempting to deploy
