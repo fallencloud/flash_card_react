@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import Header from './Header';
-import Hello from './Hello';
+import NameCard from './NameCard';
 import Welcome from './Welcome';
 import Card from './Card';
 
@@ -9,7 +9,7 @@ class App extends Component {
     return (
       <div className='App'>
         <Header />
-        <Card />
+        <NameCard />
       </div>
     );
   }
