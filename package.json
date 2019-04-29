@@ -1,6 +1,10 @@
 {
   "name": "flash_cards_react",
   "version": "0.1.0",
+  "engines": {
+    "npm": "6.9.0",
+    "node": "10.5.0"
+  },
   "private": true,
   "dependencies": {
     "react": "^16.8.6",
