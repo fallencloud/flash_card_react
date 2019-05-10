@@ -4,15 +4,15 @@ self.__precacheManifest = [
     "url": "/flash_card_react/static/js/runtime~main.d70c2786.js"
   },
   {
-    "revision": "c9c97e4c69a5bd91d689",
-    "url": "/flash_card_react/static/js/main.38847ea2.chunk.js"
+    "revision": "ce7f9d24c70c072348cc",
+    "url": "/flash_card_react/static/js/main.d406a437.chunk.js"
   },
   {
     "revision": "9eee67cf782a38d35aeb",
     "url": "/flash_card_react/static/js/2.d6a534e5.chunk.js"
   },
   {
-    "revision": "6ecb54d3600968ec59585b282572faca",
+    "revision": "e489e81232f0c87721900c580f6e402e",
     "url": "/flash_card_react/index.html"
   }
 ];
