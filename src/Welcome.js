@@ -9,7 +9,7 @@ class Welcome extends Component {
             <p className='namecard-greeting'>Welcome, fallencloud!</p>
             <form className='namecard-exit' action='/goodbye' method='POST'>
               <button type='submit'>
-                <img src='./img/close.svg' />
+                <img src='img/close.svg' />
               </button>
             </form>
           </div>

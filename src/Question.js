@@ -13,10 +13,10 @@ const Question = props => {
         </p>
       </div>
       <div className='card-flip-wrap' onClick={() => handleCardFlip()}>
-        <img className='card-flip' src='./img/flip.svg' />
+        <img className='card-flip' src='img/flip.svg' />
       </div>
       <div className='card-next' onClick={() => getCard()}>
-        <img src='./img/next.svg' />
+        <img src='img/next.svg' />
       </div>
     </div>
   );
