@@ -1,8 +1,6 @@
 import React, { Component } from 'react';
 import Header from './Header';
 import NameCard from './NameCard';
-import Welcome from './Welcome';
-import Card from './Card';
 
 class App extends Component {
   render() {

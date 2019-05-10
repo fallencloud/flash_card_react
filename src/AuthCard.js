@@ -12,7 +12,7 @@ const AuthCard = props => {
         }}
       >
         <button type='submit'>
-          <img src='/img/close.svg' />
+          <img src='./img/close.svg' />
         </button>
       </form>
     </div>
